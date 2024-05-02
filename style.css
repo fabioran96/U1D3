@@ -1,16 +1,22 @@
 h1{font-family: 'Times New Roman', Times, serif;
-text-align: center;}
-#banner{background-color: antiquewhite;
-text-align: center;}
-#par2{color: red;}
-
+text-align: center;
+font-size:170%;}
+#banner{background-color: rgb(245, 244, 229);
+text-align: center;line-height: 0.5cm;}
+#par1{font-size: 90%;}
+#par2{color: brown;}
+h2{font-size: 110%;}
+h3{font-size: 90%;}
+h4{font-size: 90%;}
 
 #span1{font-weight: bold;}
 header{text-align: center;}
 
-.elenco{line-height: 1cm;}
+.elenco{line-height: 0.8cm;
+font-size: 80%;}
 
-
-body{margin-left: 3cm;
+#div1{line-height: 1cm;
+font-size: 60%;}
+section{margin-left: 3cm;
 margin-right: 3cm;}
-#div2{outline: 1cm;}
+a{color: rgb(148, 173, 174);}
