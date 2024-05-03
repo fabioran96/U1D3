@@ -2,7 +2,9 @@ h1{font-family: 'Times New Roman', Times, serif;
 text-align: center;
 font-size:170%;}
 #banner{background-color: rgb(245, 244, 229);
-text-align: center;line-height: 0.5cm;}
+text-align: center;
+border-top:2px solid rgb(234, 234, 150)
+}
 #par1{font-size: 90%;}
 #par2{color: brown;}
 h2{font-size: 110%;}
@@ -10,13 +12,17 @@ h3{font-size: 90%;}
 h4{font-size: 90%;}
 
 #span1{font-weight: bold;}
-header{text-align: center;}
+header{text-align: center;
+}
 
 .elenco{line-height: 0.8cm;
 font-size: 80%;}
 
 #div1{line-height: 1cm;
-font-size: 60%;}
+font-size: 60%;
+}
+#div2{border-left:2px solid red;
+margin-left: 2px;}
 section{margin-left: 3cm;
 margin-right: 3cm;}
 a{color: rgb(148, 173, 174);}
